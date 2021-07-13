@@ -1,0 +1,4 @@
+﻿Public Function calc(x,y)
+       MyValue=x+y
+       calc=MyValue
+       End Function
